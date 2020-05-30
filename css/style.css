@@ -289,5 +289,10 @@ body {
   .menu a {
     padding-right: 15px;
   }
+  .img-chef {
+    max-width: 150px;
+    margin-right: 20px;
+    margin-top: 215px;
+}
 }
 
