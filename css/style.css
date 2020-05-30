@@ -295,17 +295,16 @@ body {
     margin-right: 20px;
     margin-top: 215px;
   }
+  
 .chef h1 {
   text-align: center;
-  margin-top: 60px;
-  margin-left: auto;
+  margin-top: 60px 5px;
   }
 
 .chef p {
   text-align: center;
   width: 90%;
-  margin-top: 95px;
-  margin-left: auto;
+  margin-top: 95px 5px;
   }
 }
 
